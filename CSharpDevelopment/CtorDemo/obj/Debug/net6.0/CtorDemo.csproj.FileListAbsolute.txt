@@ -1,0 +1,15 @@
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\bin\Debug\net6.0\CtorDemo.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\bin\Debug\net6.0\CtorDemo.deps.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\bin\Debug\net6.0\CtorDemo.runtimeconfig.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\bin\Debug\net6.0\CtorDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\bin\Debug\net6.0\CtorDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\obj\Debug\net6.0\CtorDemo.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\obj\Debug\net6.0\CtorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\obj\Debug\net6.0\CtorDemo.AssemblyInfoInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\obj\Debug\net6.0\CtorDemo.AssemblyInfo.cs
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\obj\Debug\net6.0\CtorDemo.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\obj\Debug\net6.0\CtorDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\obj\Debug\net6.0\refint\CtorDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\obj\Debug\net6.0\CtorDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\obj\Debug\net6.0\CtorDemo.genruntimeconfig.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\CtorDemo\obj\Debug\net6.0\ref\CtorDemo.dll

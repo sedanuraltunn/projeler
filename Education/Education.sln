@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlLesson", "HtmlLesson\HtmlLesson.csproj", "{27D219BF-4BCA-4914-96B6-88A6EA57CD60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D219BF-4BCA-4914-96B6-88A6EA57CD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D219BF-4BCA-4914-96B6-88A6EA57CD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D219BF-4BCA-4914-96B6-88A6EA57CD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D219BF-4BCA-4914-96B6-88A6EA57CD60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22E70AEC-B874-42E0-958D-EB7888BED66A}
+	EndGlobalSection
+EndGlobal

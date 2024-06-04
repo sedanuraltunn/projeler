@@ -1,0 +1,15 @@
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.deps.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.runtimeconfig.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.AssemblyInfoInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.AssemblyInfo.cs
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\obj\Debug\net6.0\refint\PolymorphismDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.genruntimeconfig.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\PolymorphismDemo\obj\Debug\net6.0\ref\PolymorphismDemo.dll

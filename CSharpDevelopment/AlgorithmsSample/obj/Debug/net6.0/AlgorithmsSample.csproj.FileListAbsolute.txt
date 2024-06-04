@@ -1,0 +1,15 @@
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\bin\Debug\net6.0\AlgorithmsSample.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\bin\Debug\net6.0\AlgorithmsSample.deps.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\bin\Debug\net6.0\AlgorithmsSample.runtimeconfig.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\bin\Debug\net6.0\AlgorithmsSample.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\bin\Debug\net6.0\AlgorithmsSample.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\obj\Debug\net6.0\AlgorithmsSample.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\obj\Debug\net6.0\AlgorithmsSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\obj\Debug\net6.0\AlgorithmsSample.AssemblyInfoInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\obj\Debug\net6.0\AlgorithmsSample.AssemblyInfo.cs
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\obj\Debug\net6.0\AlgorithmsSample.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\obj\Debug\net6.0\AlgorithmsSample.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\obj\Debug\net6.0\refint\AlgorithmsSample.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\obj\Debug\net6.0\AlgorithmsSample.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\obj\Debug\net6.0\AlgorithmsSample.genruntimeconfig.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\AlgorithmsSample\obj\Debug\net6.0\ref\AlgorithmsSample.dll

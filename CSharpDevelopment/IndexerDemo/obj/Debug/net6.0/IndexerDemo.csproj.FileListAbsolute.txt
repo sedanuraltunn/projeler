@@ -1,0 +1,15 @@
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\bin\Debug\net6.0\IndexerDemo.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\bin\Debug\net6.0\IndexerDemo.deps.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\bin\Debug\net6.0\IndexerDemo.runtimeconfig.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\bin\Debug\net6.0\IndexerDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\bin\Debug\net6.0\IndexerDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\obj\Debug\net6.0\IndexerDemo.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\obj\Debug\net6.0\IndexerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\obj\Debug\net6.0\IndexerDemo.AssemblyInfoInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\obj\Debug\net6.0\IndexerDemo.AssemblyInfo.cs
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\obj\Debug\net6.0\IndexerDemo.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\obj\Debug\net6.0\IndexerDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\obj\Debug\net6.0\refint\IndexerDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\obj\Debug\net6.0\IndexerDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\obj\Debug\net6.0\IndexerDemo.genruntimeconfig.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\IndexerDemo\obj\Debug\net6.0\ref\IndexerDemo.dll

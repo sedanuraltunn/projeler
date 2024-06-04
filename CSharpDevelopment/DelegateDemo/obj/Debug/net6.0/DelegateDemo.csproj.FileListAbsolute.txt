@@ -1,0 +1,15 @@
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\bin\Debug\net6.0\DelegateDemo.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\bin\Debug\net6.0\DelegateDemo.deps.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\bin\Debug\net6.0\DelegateDemo.runtimeconfig.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\bin\Debug\net6.0\DelegateDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\bin\Debug\net6.0\DelegateDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\obj\Debug\net6.0\DelegateDemo.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\obj\Debug\net6.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\obj\Debug\net6.0\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\obj\Debug\net6.0\DelegateDemo.AssemblyInfo.cs
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\obj\Debug\net6.0\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\obj\Debug\net6.0\DelegateDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\obj\Debug\net6.0\refint\DelegateDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\obj\Debug\net6.0\DelegateDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\obj\Debug\net6.0\DelegateDemo.genruntimeconfig.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateDemo\obj\Debug\net6.0\ref\DelegateDemo.dll

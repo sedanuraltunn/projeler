@@ -1,0 +1,8 @@
+C:\Users\snaltun\source\repos\CSharpDevelopment\InterfaceFrameworkDemo\obj\Debug\InterfaceFrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\InterfaceFrameworkDemo\obj\Debug\InterfaceFrameworkDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\InterfaceFrameworkDemo\obj\Debug\InterfaceFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\InterfaceFrameworkDemo\bin\Debug\InterfaceFrameworkDemo.exe.config
+C:\Users\snaltun\source\repos\CSharpDevelopment\InterfaceFrameworkDemo\bin\Debug\InterfaceFrameworkDemo.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\InterfaceFrameworkDemo\bin\Debug\InterfaceFrameworkDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\InterfaceFrameworkDemo\obj\Debug\InterfaceFrameworkDemo.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\InterfaceFrameworkDemo\obj\Debug\InterfaceFrameworkDemo.pdb

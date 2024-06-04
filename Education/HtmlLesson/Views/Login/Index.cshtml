@@ -1,0 +1,34 @@
+﻿@{
+    Layout = null; @*default layout kullanılması istenmiyor*@
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="description" content="MSÜ Yazılım Kursu"/>
+    <meta name="keywords" content="MSÜ, Yazılım, kurs, mühendislik"/>
+    <title>MSU Project</title>
+    <link rel="icon" href="~/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" href="~/css/login.css" />  @*~ işareti wwwroot'u gösterir*@
+    
+</head>
+<body>
+    <h1>Welcome to Project</h1>
+    <p id="p_head">Bu kısma login elemanları gelecektir.</p>
+    <strong><span>Burası birinci satır</span></strong>
+    <br />
+    <em><span>Burası ikinci satır</span></em>
+    <a href="/home">Home</a>
+    <img src="~/images/indir.jfif" title="koala" style="width:150px;height:150px"/>
+    <input type="text" id="inp_username" placeholder="Username"/>
+    <select id="sel_usertype">
+        <option value="0">Personel</option>
+        <option value="1">Ziyaretçi</option>
+        <option value="2">Yönetici</option>
+    </select>
+</body> 
+</html>
+<footer>
+    <script src="~/js/login.js"></script>
+</footer>
+

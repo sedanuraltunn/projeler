@@ -1,0 +1,15 @@
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\bin\Debug\net6.0\PropertyDemo.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\bin\Debug\net6.0\PropertyDemo.deps.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\bin\Debug\net6.0\PropertyDemo.runtimeconfig.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\bin\Debug\net6.0\PropertyDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\bin\Debug\net6.0\PropertyDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\obj\Debug\net6.0\PropertyDemo.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\obj\Debug\net6.0\PropertyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\obj\Debug\net6.0\PropertyDemo.AssemblyInfoInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\obj\Debug\net6.0\PropertyDemo.AssemblyInfo.cs
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\obj\Debug\net6.0\PropertyDemo.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\obj\Debug\net6.0\PropertyDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\obj\Debug\net6.0\refint\PropertyDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\obj\Debug\net6.0\PropertyDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\obj\Debug\net6.0\PropertyDemo.genruntimeconfig.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\PropertyDemo\obj\Debug\net6.0\ref\PropertyDemo.dll

@@ -1,0 +1,12 @@
+C:\Users\snaltun\source\repos\Northwind\Northwind.Persistance\bin\Debug\net6.0\Northwind.Persistance.deps.json
+C:\Users\snaltun\source\repos\Northwind\Northwind.Persistance\bin\Debug\net6.0\Northwind.Persistance.dll
+C:\Users\snaltun\source\repos\Northwind\Northwind.Persistance\bin\Debug\net6.0\Northwind.Persistance.pdb
+C:\Users\snaltun\source\repos\Northwind\Northwind.Persistance\obj\Debug\net6.0\Northwind.Persistance.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\Northwind\Northwind.Persistance\obj\Debug\net6.0\Northwind.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snaltun\source\repos\Northwind\Northwind.Persistance\obj\Debug\net6.0\Northwind.Persistance.AssemblyInfoInputs.cache
+C:\Users\snaltun\source\repos\Northwind\Northwind.Persistance\obj\Debug\net6.0\Northwind.Persistance.AssemblyInfo.cs
+C:\Users\snaltun\source\repos\Northwind\Northwind.Persistance\obj\Debug\net6.0\Northwind.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\Northwind\Northwind.Persistance\obj\Debug\net6.0\Northwind.Persistance.dll
+C:\Users\snaltun\source\repos\Northwind\Northwind.Persistance\obj\Debug\net6.0\refint\Northwind.Persistance.dll
+C:\Users\snaltun\source\repos\Northwind\Northwind.Persistance\obj\Debug\net6.0\Northwind.Persistance.pdb
+C:\Users\snaltun\source\repos\Northwind\Northwind.Persistance\obj\Debug\net6.0\ref\Northwind.Persistance.dll

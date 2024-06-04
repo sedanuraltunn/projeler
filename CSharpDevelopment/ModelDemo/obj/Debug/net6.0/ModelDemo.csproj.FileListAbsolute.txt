@@ -1,0 +1,15 @@
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\bin\Debug\net6.0\ModelDemo.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\bin\Debug\net6.0\ModelDemo.deps.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\bin\Debug\net6.0\ModelDemo.runtimeconfig.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\bin\Debug\net6.0\ModelDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\bin\Debug\net6.0\ModelDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\obj\Debug\net6.0\ModelDemo.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\obj\Debug\net6.0\ModelDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\obj\Debug\net6.0\ModelDemo.AssemblyInfoInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\obj\Debug\net6.0\ModelDemo.AssemblyInfo.cs
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\obj\Debug\net6.0\ModelDemo.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\obj\Debug\net6.0\ModelDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\obj\Debug\net6.0\refint\ModelDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\obj\Debug\net6.0\ModelDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\obj\Debug\net6.0\ModelDemo.genruntimeconfig.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\ModelDemo\obj\Debug\net6.0\ref\ModelDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\bin\Debug\net6.0\EnumDemo.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\bin\Debug\net6.0\EnumDemo.deps.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\bin\Debug\net6.0\EnumDemo.runtimeconfig.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\bin\Debug\net6.0\EnumDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\bin\Debug\net6.0\EnumDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\obj\Debug\net6.0\EnumDemo.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\obj\Debug\net6.0\EnumDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\obj\Debug\net6.0\EnumDemo.AssemblyInfoInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\obj\Debug\net6.0\EnumDemo.AssemblyInfo.cs
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\obj\Debug\net6.0\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\obj\Debug\net6.0\EnumDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\obj\Debug\net6.0\refint\EnumDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\obj\Debug\net6.0\EnumDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\obj\Debug\net6.0\EnumDemo.genruntimeconfig.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\EnumDemo\obj\Debug\net6.0\ref\EnumDemo.dll

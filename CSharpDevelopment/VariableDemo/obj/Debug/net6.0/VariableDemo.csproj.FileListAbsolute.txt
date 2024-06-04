@@ -1,0 +1,15 @@
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\bin\Debug\net6.0\VariableDemo.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\bin\Debug\net6.0\VariableDemo.deps.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\bin\Debug\net6.0\VariableDemo.runtimeconfig.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\bin\Debug\net6.0\VariableDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\bin\Debug\net6.0\VariableDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\obj\Debug\net6.0\VariableDemo.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\obj\Debug\net6.0\VariableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\obj\Debug\net6.0\VariableDemo.AssemblyInfoInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\obj\Debug\net6.0\VariableDemo.AssemblyInfo.cs
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\obj\Debug\net6.0\VariableDemo.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\obj\Debug\net6.0\VariableDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\obj\Debug\net6.0\refint\VariableDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\obj\Debug\net6.0\VariableDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\obj\Debug\net6.0\VariableDemo.genruntimeconfig.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\VariableDemo\obj\Debug\net6.0\ref\VariableDemo.dll

@@ -1,0 +1,22 @@
+﻿.logo-img {
+    width: 40px;
+    border: 1px solid #ddd; 
+}
+
+#img_logo {
+    padding: 3px;
+    border-radius: 50%;
+}
+
+.error {
+    border: 1px solid red;
+    border-radius: 3px;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-blackkk {
+    background-color: black;
+}

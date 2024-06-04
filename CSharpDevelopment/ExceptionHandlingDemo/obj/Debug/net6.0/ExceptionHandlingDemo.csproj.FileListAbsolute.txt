@@ -1,0 +1,15 @@
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\bin\Debug\net6.0\ExceptionHandlingDemo.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\bin\Debug\net6.0\ExceptionHandlingDemo.deps.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\bin\Debug\net6.0\ExceptionHandlingDemo.runtimeconfig.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\bin\Debug\net6.0\ExceptionHandlingDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\bin\Debug\net6.0\ExceptionHandlingDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\obj\Debug\net6.0\ExceptionHandlingDemo.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\obj\Debug\net6.0\ExceptionHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\obj\Debug\net6.0\ExceptionHandlingDemo.AssemblyInfoInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\obj\Debug\net6.0\ExceptionHandlingDemo.AssemblyInfo.cs
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\obj\Debug\net6.0\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\obj\Debug\net6.0\ExceptionHandlingDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\obj\Debug\net6.0\refint\ExceptionHandlingDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\obj\Debug\net6.0\ExceptionHandlingDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\obj\Debug\net6.0\ExceptionHandlingDemo.genruntimeconfig.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\ExceptionHandlingDemo\obj\Debug\net6.0\ref\ExceptionHandlingDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\obj\Debug\net6.0\DelegateSample2.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\obj\Debug\net6.0\DelegateSample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\obj\Debug\net6.0\DelegateSample2.AssemblyInfoInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\obj\Debug\net6.0\DelegateSample2.AssemblyInfo.cs
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\obj\Debug\net6.0\DelegateSample2.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\bin\Debug\net6.0\DelegateSample2.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\bin\Debug\net6.0\DelegateSample2.deps.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\bin\Debug\net6.0\DelegateSample2.runtimeconfig.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\bin\Debug\net6.0\DelegateSample2.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\bin\Debug\net6.0\DelegateSample2.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\obj\Debug\net6.0\DelegateSample2.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\obj\Debug\net6.0\refint\DelegateSample2.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\obj\Debug\net6.0\DelegateSample2.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\obj\Debug\net6.0\DelegateSample2.genruntimeconfig.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\DelegateSample2\obj\Debug\net6.0\ref\DelegateSample2.dll

@@ -1,0 +1,15 @@
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\bin\Debug\net6.0\CollectionObjectDemo.exe
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\bin\Debug\net6.0\CollectionObjectDemo.deps.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\bin\Debug\net6.0\CollectionObjectDemo.runtimeconfig.json
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\bin\Debug\net6.0\CollectionObjectDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\bin\Debug\net6.0\CollectionObjectDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\obj\Debug\net6.0\CollectionObjectDemo.csproj.AssemblyReference.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\obj\Debug\net6.0\CollectionObjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\obj\Debug\net6.0\CollectionObjectDemo.AssemblyInfoInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\obj\Debug\net6.0\CollectionObjectDemo.AssemblyInfo.cs
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\obj\Debug\net6.0\CollectionObjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\obj\Debug\net6.0\CollectionObjectDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\obj\Debug\net6.0\refint\CollectionObjectDemo.dll
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\obj\Debug\net6.0\CollectionObjectDemo.pdb
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\obj\Debug\net6.0\CollectionObjectDemo.genruntimeconfig.cache
+C:\Users\snaltun\source\repos\CSharpDevelopment\CollectionsObjectDemo\obj\Debug\net6.0\ref\CollectionObjectDemo.dll

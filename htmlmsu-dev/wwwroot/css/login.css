@@ -1,0 +1,15 @@
+﻿body {
+    font-size: 34px;
+    color: #f00;
+    margin-left: 150px;
+}
+
+h1 {
+    border: solid #AAA 1px;
+}
+
+.above-buttons {
+    border-bottom:1px solid #CCC;
+    padding:10px
+}
+
